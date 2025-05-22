@@ -17,13 +17,10 @@ Ce dossier me permet de maintenir un rythme régulier de pratique du code, de re
 
 ## ✅ Exemples d'exercices
 
-- Trouver la température la plus proche de 0 (`closest-to-zero.js`)
 - Trouver le nombre le plus proche d'une cible donnée (`closest-to-n.js`)
 - Vérifier si un mot est un palindrome (`palindrome.js`)
 - Écrire un compte à rebours de 100 à 1 (`countdown.js`)
-- Calculer la distance entre deux points (latitude/longitude)
-- Déterminer si trois entiers ont un produit donné
-- Trouver le maximum d’un tableau sans `Math.max`
+- Fonction qui prend un tableau de nombres entiers positifs et retourne la somme des chiffres qui apparaissent plusieurs fois (`sumOfRepeatedDigits.js`)
 
 ---
 
