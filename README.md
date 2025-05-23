@@ -21,6 +21,7 @@ Ce dossier me permet de maintenir un rythme régulier de pratique du code, de re
 - Vérifier si un mot est un palindrome (`palindrome.js`)
 - Écrire un compte à rebours de 100 à 1 (`countdown.js`)
 - Fonction qui prend un tableau de nombres entiers positifs et retourne la somme des chiffres qui apparaissent plusieurs fois (`sumOfRepeatedDigits.js`)
+- etc.
 
 ---
 
